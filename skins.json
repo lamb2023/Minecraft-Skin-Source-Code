@@ -1,0 +1,11 @@
+{"geometry":"skinpacks\/skins.json",
+"skins":                                                                   
+[{"localization_name":"skin1","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（一））.png","type":"free"},
+{"localization_name":"skin2","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（二））.png","type":"free"},
+{"localization_name":"skin3","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（三））.png","type":"free"},
+{"localization_name":"skin4","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（四））.png","type":"free"},
+{"localization_name":"skin5","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（五））.png","type":"free"},
+{"localization_name":"skin6","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（六））.png","type":"free"},
+{"localization_name":"skin7","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（七））.png","type":"free"},
+{"localization_name":"skin8","geometry":"geometry.humanoid.customSlim","texture":"（此为皮肤图片文件名（八））.png","type":"free"}],
+"serialize_name":"（此为皮肤包名）","localization_name":"（此为皮肤包名）"}
